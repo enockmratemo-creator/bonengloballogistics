@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bonen Global Logistics</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Navigation -->
+  <header>
+    <nav class="navbar">
+      <div class="logo">Bonen Global Logistics</div>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="blog.html">Insights</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-content">
+      <h1>Transforming Supply Chains Into Competitive Advantage</h1>
+      <p>Bonen Global Logistics delivers strategy, training, technology, and sustainability-driven solutions to empower businesses worldwide.</p>
+      <a href="services.html" class="btn">Explore Services</a>
+      <a href="contact.html" class="btn secondary">Schedule a Consultation</a>
+    </div>
+  </section>
+
+  <!-- Services Overview -->
+  <section class="services-overview">
+    <h2>Our Core Services</h2>
+    <div class="services-grid">
+      <div class="service-card">Training & Capability Building</div>
+      <div class="service-card">Strategic Supply Chain Design</div>
+      <div class="service-card">Operational Excellence</div>
+      <div class="service-card">Advanced Analytics & Technology</div>
+      <div class="service-card">Strategic Procurement</div>
+      <div class="service-card">Transportation & Logistics</div>
+      <div class="service-card">Risk & Resilience</div>
+      <div class="service-card">Sustainability & Circular Economy</div>
+      <div class="service-card">Performance & Governance</div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Bonen Global Logistics | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
