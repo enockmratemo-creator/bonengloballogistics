@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us - Bonen Global Logistics</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <div class="logo">Bonen Global Logistics</div>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html" class="active">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="blog.html">Insights</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="page-header">
+    <h1>About Us</h1>
+  </section>
+
+  <section class="content-section">
+    <h2>Mission</h2>
+    <p>Empower businesses through efficient, resilient, and sustainable supply chains.</p>
+
+    <h2>Vision</h2>
+    <p>To be the leading global partner in supply chain transformation and innovation.</p>
+
+    <h2>Core Values</h2>
+    <ul>
+      <li>Innovation</li>
+      <li>Sustainability</li>
+      <li>Resilience</li>
+      <li>Client-Centricity</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Bonen Global Logistics | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
